@@ -1,0 +1,12 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 60vh;
+}
+.image {
+  height: 180px;
+  width: 180x;
+}
